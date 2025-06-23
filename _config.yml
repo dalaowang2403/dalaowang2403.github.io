@@ -1,9 +1,10 @@
-remote_theme:  mmistakes/so-simple-theme
+remote_theme: mmistakes/so-simple-theme
 title: "六组の妙妙屋"
 description: "用来进行展示与分享的综合平台"
 author:
   name: "王翾羽"
   qq: "1263854739"
+
 navigation:
   - title: 首页
     url: /
@@ -13,5 +14,7 @@ navigation:
     url: /blog/
   - title: 关于作者
     url: /about/
-paginate: 5        
-paginate_path: "/page:num/"
+
+# 先注释分页，确认能正常构建后再逐步打开
+# paginate: 5
+# paginate_path: "/page:num/"
