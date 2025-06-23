@@ -1,7 +1,15 @@
 ---
 layout: home
 ---
-
+<style>
+body {
+  background-image: url('/assets/images/微信图片_20250623125754.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+</style>
 # 大家好(*^▽^*)
 
 这里是王翾羽创建的主页。  
