@@ -9,6 +9,18 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
+.overlay {
+  background: rgba(0, 0, 0, 0.4);  /* 黑色 + 40%透明 */
+  min-height: 100vh;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white; 
+  text-align: center;
+}
+</style>
 </style>
 # 大家好(*^▽^*)
 
