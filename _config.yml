@@ -1,3 +1,17 @@
 remote_theme:  mmistakes/so-simple-theme
-title: "王翾羽 的个人网站"
-description: "基于手表大师主题的静态博客"
+title: "六组の妙妙屋"
+description: "用来进行展示与分享的综合平台"
+author:
+  name: "王翾羽"
+  qq: "1263854739"
+navigation:
+  - title: 首页
+    url: /
+  - title: 项目展示
+    url: /projects/
+  - title: 博客
+    url: /blog/
+  - title: 关于作者
+    url: /about/
+paginate: 5        
+paginate_path: "/page:num/"
