@@ -21,7 +21,7 @@ body {
   text-align: center;
 }
 </style>
-</style>
+
 # 大家好(*^▽^*)
 
 这里是王翾羽创建的主页。  
