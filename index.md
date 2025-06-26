@@ -10,16 +10,16 @@ body {
   background-repeat: no-repeat;
 }
 .overlay {
-  background: rgba(0, 0, 0, 0.6);  
+  backdrop-filter: blur(8px);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
   min-height: 100vh;
   padding: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: white; 
+  color: white;
   text-align: center;
-  
 }
 </style>
 
