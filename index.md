@@ -10,7 +10,7 @@ body {
   background-repeat: no-repeat;
 }
 .overlay {
-  background: rgba(0, 0, 0, 0.4);  /* 黑色 + 40%透明 */
+  background: rgba(0, 0, 0, 0.6);  
   min-height: 100vh;
   padding: 2rem;
   display: flex;
@@ -19,6 +19,7 @@ body {
   align-items: center;
   color: white; 
   text-align: center;
+  
 }
 </style>
 
